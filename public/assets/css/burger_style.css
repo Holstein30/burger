@@ -1,6 +1,6 @@
 body {
     background-image: url(../img/background.jpg);
-    background-position: 50% 20%;
+    background-position: 10% 40%;
     background-repeat: no-repeat;
     background-size: cover;
     color: #eee;
@@ -8,4 +8,8 @@ body {
 
 .top-row {
     margin-bottom: 20px;
+}
+
+#ca {
+    color: #000;
 }
